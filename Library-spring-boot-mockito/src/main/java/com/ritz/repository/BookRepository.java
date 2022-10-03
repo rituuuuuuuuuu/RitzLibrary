@@ -6,7 +6,7 @@ import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
 import com.ritz.entity.Book;
-
+//cjst for git 
 
 public interface BookRepository extends CrudRepository<Book, Integer>{
 	
